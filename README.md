@@ -59,7 +59,7 @@ The upload attempt finally completed after 2 hours, fifty-two minutes, eight sec
 
 ### Secondary Processing
 
-Once the data had been uploaded to the PostgreSQL database the data in `vine_table` was further processed to enable the examination of some aggregate results on its data.
+Once the data had been uploaded to the PostgreSQL database, the data in `vine_table` was further processed to enable the examination of some aggregate results on its data.
 
 ## Results
 
